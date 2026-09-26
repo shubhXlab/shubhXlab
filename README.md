@@ -78,12 +78,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhXlab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="ShubhXlab GitHub Stats" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhXlab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+<img src="https://github-stats-extended.vercel.app/api?username=shubhXlab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="ShubhXlab GitHub Stats" height="175" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shubhXlab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhXlab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=shubhXlab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
